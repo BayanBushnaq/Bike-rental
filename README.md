@@ -6,13 +6,10 @@
 - Osama maher 
 - Bayan bushnaq
 
-
-
 ### Setup
 
 #### .env requirements (where applicable)
 #### pytest
-
 
 
 #### How to initialize/run your application (where applicable)
@@ -22,8 +19,6 @@
 #### How to use your library (where applicable)
 
 - import datetime library 
-
-
 
 #### Tests
 

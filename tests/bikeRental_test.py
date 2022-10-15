@@ -3,6 +3,9 @@ from datetime import datetime, timedelta
 from bike_rental.bikeRental import (BikeRental, Customer)
 
 
+
+
+
 class BikeRentalTest(unittest.TestCase):
 
     def test_Bike_Rental_diplays_correct_stock(self):
